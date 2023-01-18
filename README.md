@@ -1,1 +1,3 @@
-# Projeto nlw.setup desenvolvido no programa Explorer da Rocketseat na semana de aprendizado.
+# nlw.setup
+Projeto desenvolvido no programa Explorer da Rocketseat na semana de aprendizado.
+ 

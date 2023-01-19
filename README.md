@@ -7,5 +7,7 @@ HTML
 
 CSS
 
+JAVASCRIPT
+
 
 [Site da Rocketseat](https://www.rocketseat.com.br)

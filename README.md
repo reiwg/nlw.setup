@@ -1,5 +1,5 @@
 # nlw.setup 🚀
-Projeto desenvolvido no programa Explorer da Rocketseat na semana de aprendizado.
+Projeto desenvolvido no programa Explorer da Rocketseat no período de 16/01 até 23/01 com o tutor Mayk Brito.
 
 
 ### Utilizadas as seguintes linguagens:

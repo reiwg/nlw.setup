@@ -1,14 +1,13 @@
-# nlw.setup
+# nlw.setup 🚀
 Projeto desenvolvido no programa Explorer da Rocketseat na semana de aprendizado.
-Nos dias: 16/01 , 17/01, 18/01, 19/01
 
-### Utilizando as linguagens:
 
-HTML
+### Utilizadas as seguintes linguagens:
 
-CSS
-
-JAVASCRIPT
-
+[HTML]
+[CSS]
+[JAVASCRIPT]
+[Git/GitHub]
+[Figma]
 
 [Site da Rocketseat](https://www.rocketseat.com.br)

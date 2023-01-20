@@ -16,9 +16,11 @@ O objetivo foi a criação de uma plataforma onde é possível o registro de há
   <li>[Figma]</li>
 </ol>
 
+<ol>
+<li>[Site da Rocketseat](https://www.rocketseat.com.br)</li>
+<li>[Layout do projeto no Figma](https://www.figma.com/community/file/1195327109778210238)</li>
+</ol>
 
-[Site da Rocketseat](https://www.rocketseat.com.br)
-[Layout do projeto no Figma](https://www.figma.com/community/file/1195327109778210238)
 
 ## Layout 
 

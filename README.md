@@ -23,12 +23,9 @@ O objetivo foi a criação de uma plataforma onde é possível o registro de há
 
 
 
-## Layout 
+## Layout final do projeto
 
-![Ola](https://s3-alpha.figma.com/hub/file/2858967503/9890b922-e48c-4217-a394-2756f4245fce-cover.png)
+![9890b922-e48c-4217-a394-2756f4245fce-cover](https://user-images.githubusercontent.com/122411722/213716088-2a4c7cac-cac8-472c-8789-67563dbe6de8.png)
 
-<div align="center"
-img src="https://s3-alpha.figma.com/hub/file/2858967503/9890b922-e48c-4217-a394-2756f4245fce-cover.png" width="0px" /
-</div>
 
 

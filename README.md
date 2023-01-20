@@ -22,6 +22,6 @@ O objetivo foi a criação de uma plataforma onde é possível o registro de há
 
 ## Layout 
 
-[![Layout para os hábitos](https://s3-alpha.figma.com/hub/file/2858967503/9890b922-e48c-4217-a394-2756f4245fce-cover.png)
+[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://s3-alpha.figma.com/hub/file/2858967503/9890b922-e48c-4217-a394-2756f4245fce-cover.png)
 
 

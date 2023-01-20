@@ -27,8 +27,8 @@ O objetivo foi a criação de uma plataforma onde é possível o registro de há
 
 ![Ola](https://s3-alpha.figma.com/hub/file/2858967503/9890b922-e48c-4217-a394-2756f4245fce-cover.png)
 
-div align="center"
+<div align="center"
 img src="https://s3-alpha.figma.com/hub/file/2858967503/9890b922-e48c-4217-a394-2756f4245fce-cover.png" width="0px" /
-/div
+</div>
 
 

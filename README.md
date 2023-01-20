@@ -16,7 +16,7 @@ O objetivo foi a criação de uma plataforma onde é possível o registro de há
   <li>[Figma]</li>
 </ol>
 
-### Links importantes
+### Links importantes:
 
 [Site da Rocketseat](https://www.rocketseat.com.br)
 

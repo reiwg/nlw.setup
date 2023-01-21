@@ -28,5 +28,7 @@ O objetivo foi a criação de uma plataforma onde é possível o registro de há
 
 ![9890b922-e48c-4217-a394-2756f4245fce-cover](https://user-images.githubusercontent.com/122411722/213716088-2a4c7cac-cac8-472c-8789-67563dbe6de8.png)
 
+[Link do projeto](https://reiwg.github.io/nlw.setup/)
+
 
 
